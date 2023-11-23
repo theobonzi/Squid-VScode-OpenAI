@@ -15,7 +15,15 @@
     "commands": [
       {
         "command": "squid.explainThisCode",
-        "title": "Squid: Explain this code"
+        "title": "🐙 Squid: Explain this code"
+      },
+      {
+        "command": "squid.askQuestion",
+        "title": "🐙 Squid: Ask Question"
+      },
+      {
+        "command": "squid.writeUnitTest",
+        "title": "🐙 Squid: Write & Run Unit Test"
       }
     ]
   },
